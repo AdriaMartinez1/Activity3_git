@@ -1,1 +1,3 @@
-Linia 1 
+Linia 1 original
+Linia 2 Original
+Linia 3 Original
